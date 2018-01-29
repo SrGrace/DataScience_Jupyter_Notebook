@@ -24,6 +24,17 @@ Getting started with Python for data-science
   
 * [Scipy: high-level scientific computing](https://github.com/SrGrace/DataScience_Jupyter_Notebook/tree/master/Scipy)
   * [scipy](https://github.com/SrGrace/DataScience_Jupyter_Notebook/blob/master/Scipy/scipy.ipynb)
+
+* [Pandas Cookbook](https://github.com/SrGrace/DataScience_Jupyter_Notebook/tree/master/Pandas_Cookbook)
+  * [Pandas](https://github.com/SrGrace/DataScience_Jupyter_Notebook/blob/master/Pandas_Cookbook/Pandas.ipynb)
+
+* [Statistics in Python](https://github.com/SrGrace/DataScience_Jupyter_Notebook/tree/master/Statistics_in_Python)
+  * [statistics_in_py](https://github.com/SrGrace/DataScience_Jupyter_Notebook/blob/master/Statistics_in_Python/statistics_in_py.ipynb)
+
+* [Scikit-learn](https://github.com/SrGrace/DataScience_Jupyter_Notebook/tree/master/scikit-learn_ML_in_Python)
+  * [scikit-learn](https://github.com/SrGrace/DataScience_Jupyter_Notebook/blob/master/scikit-learn_ML_in_Python/scikit-learn.ipynb)
+
+  
   
   
   
