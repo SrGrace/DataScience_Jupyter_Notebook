@@ -27,6 +27,7 @@ Getting started with Python for data-science
 
 * [Pandas Cookbook](https://github.com/SrGrace/DataScience_Jupyter_Notebook/tree/master/Pandas_Cookbook)
   * [Pandas](https://github.com/SrGrace/DataScience_Jupyter_Notebook/blob/master/Pandas_Cookbook/Pandas.ipynb)
+  * [things_in_pandas](https://github.com/SrGrace/DataScience_Jupyter_Notebook/blob/master/Pandas_Cookbook/things_in_pandas.ipynb)
 
 * [Statistics in Python](https://github.com/SrGrace/DataScience_Jupyter_Notebook/tree/master/Statistics_in_Python)
   * [statistics_in_py](https://github.com/SrGrace/DataScience_Jupyter_Notebook/blob/master/Statistics_in_Python/statistics_in_py.ipynb)
