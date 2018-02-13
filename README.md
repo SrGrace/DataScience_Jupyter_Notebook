@@ -47,4 +47,4 @@ Getting started with Python for data-science
   
 <br><br><br>
 
-**NOTE:** PRs and Stars are always welcome :)
+**NOTE:** PRs and Stars are always welcome :sparkles:
