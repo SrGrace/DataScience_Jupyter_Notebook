@@ -12,6 +12,8 @@ Getting started with Python for data-science
   * [Exception Handling](https://github.com/SrGrace/DataScience_Jupyter_Notebook/blob/master/The_Python_Language/Exception_handling.ipynb)
   * [Object Oriented Programming](https://github.com/SrGrace/DataScience_Jupyter_Notebook/blob/master/The_Python_Language/object_oriented_programming_(OOP).ipynb)
   
+<br><br>
+
 * [Numpy: creating and manipulating numerical data](https://github.com/SrGrace/DataScience_Jupyter_Notebook/tree/master/Numpy)
   * [Numpy array object](https://github.com/SrGrace/DataScience_Jupyter_Notebook/blob/master/Numpy/Numpy_array_object.ipynb)
   * [Numerical operations on arrays](https://github.com/SrGrace/DataScience_Jupyter_Notebook/blob/master/Numpy/Numerical_operations_on_arrays.ipynb)
