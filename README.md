@@ -24,6 +24,7 @@ Getting started with Python for data-science
 * [Matplotlib plotting](https://github.com/SrGrace/DataScience_Jupyter_Notebook/tree/master/Matplotlib_plotting)
   * [Matplotlib_plotting](https://github.com/SrGrace/DataScience_Jupyter_Notebook/blob/master/Matplotlib_plotting/Matplotlib_plotting.ipynb)
  <br> 
+ 
 * [Scipy: high-level scientific computing](https://github.com/SrGrace/DataScience_Jupyter_Notebook/tree/master/Scipy)
   * [scipy](https://github.com/SrGrace/DataScience_Jupyter_Notebook/blob/master/Scipy/scipy.ipynb)
 <br>
@@ -44,6 +45,6 @@ Getting started with Python for data-science
   
    
   
-<br><br>
+<br><br><br>
 
 **NOTE:** PRs and Stars are always welcome :)
