@@ -40,6 +40,10 @@ Getting started with Python for data-science
 
 * [Scikit-learn](https://github.com/SrGrace/DataScience_Jupyter_Notebook/tree/master/scikit-learn_ML_in_Python)
   * [scikit-learn](https://github.com/SrGrace/DataScience_Jupyter_Notebook/blob/master/scikit-learn_ML_in_Python/scikit-learn.ipynb)
+<br>
+
+* [Folium](https://github.com/SrGrace/DataScience_Jupyter_Notebook/tree/master/folium)
+ * [folium](https://github.com/SrGrace/DataScience_Jupyter_Notebook/blob/master/folium/folium.ipynb)
 
   
   
