@@ -43,7 +43,7 @@ Getting started with Python for data-science
 <br>
 
 * [Folium](https://github.com/SrGrace/DataScience_Jupyter_Notebook/tree/master/folium)
- * [folium](https://github.com/SrGrace/DataScience_Jupyter_Notebook/blob/master/folium/folium.ipynb)
+  * [folium](https://github.com/SrGrace/DataScience_Jupyter_Notebook/blob/master/folium/folium.ipynb)
 
   
   
