@@ -46,7 +46,22 @@ Getting started with Python for data-science
   * [folium](https://github.com/SrGrace/DataScience_Jupyter_Notebook/blob/master/folium/folium.ipynb)
 
   
-  
+## Installation
+
+To download all the notebooks, simply clone this repository:
+```
+git clone https://github.com/SrGrace/DataScience_Jupyter_Notebook
+```
+
+To run them, you also need the latest version of following modules. To install it:
+```
+pip install pandas
+pip install numpy
+pip install matplotlib
+pip install scipy
+pip install folium .. etc.
+```
+
    
   
 <br><br><br>
