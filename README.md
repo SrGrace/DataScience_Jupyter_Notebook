@@ -62,8 +62,6 @@ pip install scipy
 pip install folium .. etc.
 ```
 
-   
-  
 <br><br><br>
 
 **NOTE:** PRs and Stars are always welcome :sparkles:
